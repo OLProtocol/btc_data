@@ -9,7 +9,7 @@ usage method:
 
 
 Link: 
-1、https://pan.baidu.com/s/1uruSOCJm4V689kc1_YfQDw?pwd=it51
+1、https://pan.baidu.com/s/1AtWgidr3b2AHhkOpc9qrqQ?pwd=0r8g
 2、waiting https://pan.quark.cn/s/?
 --------------------------
 
@@ -21,7 +21,7 @@ Ordinals Index Data File Index.redb (Ordinals Index Data Index.redb)
 
 Index.redb updated to block height 77856 of Bitcoin full node (2023/02/23)
 Link: 
-1、https://pan.baidu.com/s/1uruSOCJm4V689kc1_YfQDw?pwd=it51 
+1、链接：https://pan.baidu.com/s/1uruSOCJm4V689kc1_YfQDw?pwd=it51 
 2、waiting https://pan.quark.cn/s/?
 --------------------------
 
