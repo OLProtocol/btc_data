@@ -21,9 +21,14 @@ Ordinals Index Data File Index.redb (Ordinals Index Data Index.redb)
 
 Index.redb updated to block height 77856 of Bitcoin full node (2023/02/23)
 Link: 
-1、链接：https://pan.baidu.com/s/1uruSOCJm4V689kc1_YfQDw?pwd=it51 
+1、链接：https://pan.baidu.com/s/1uruSOCJm4V689kc1_YfQDw?pwd=it51
 2、waiting https://pan.quark.cn/s/?
 --------------------------
+
+```shell
+### create ord wallet and index
+ord --wallet <bitcoin-wallet-name> --bitcoin-data-dir <bitcoin-data> --data-dir <ord-data> wallet create
+```
 
 If you have any questions, please feel free to contact softwarecheng@gmail.com
 https://github.com/tinyverse-web3
