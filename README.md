@@ -19,7 +19,7 @@ Ordinals Index Data File Index.redb (Ordinals Index Data Index.redb)
 Index.redb updated to block height 77856 of Bitcoin full node (Nov 25, 2023)
 
 usage method:
-1. First, unzip the file, with a volume of about 46G
+1. First, unzip the file(16G), with a volume of about 46G
 2. Overwrite the file into the directory where the ord inde.redb file is located
 
 
