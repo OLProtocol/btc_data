@@ -8,21 +8,22 @@ usage method:
 2. Overwrite the file into the directory where the bitcoin block file is located
 
 
-Link: 
-1、https://pan.baidu.com/s/1AtWgidr3b2AHhkOpc9qrqQ?pwd=0r8g
-2、waiting https://pan.quark.cn/s/?
+https://pan.baidu.com/s/1AtWgidr3b2AHhkOpc9qrqQ?pwd=0r8g
 --------------------------
 
 
 # Ordinals Index Data
-Ordinals Index Data
 
+Description:
 Ordinals Index Data File Index.redb (Ordinals Index Data Index.redb)
+Index.redb updated to block height 77856 of Bitcoin full node (Nov 25, 2023)
 
-Index.redb updated to block height 77856 of Bitcoin full node (2023/02/23)
-Link: 
-1、链接：https://pan.baidu.com/s/1uruSOCJm4V689kc1_YfQDw?pwd=it51
-2、waiting https://pan.quark.cn/s/?
+usage method:
+1. First, unzip the file, with a volume of about 45,019,713,536 bytes
+2. Overwrite the file into the directory where the ord inde.redb file is located
+
+
+https://pan.baidu.com/s/1uruSOCJm4V689kc1_YfQDw?pwd=it51
 --------------------------
 
 ```shell
