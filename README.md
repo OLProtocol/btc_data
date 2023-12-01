@@ -4,7 +4,7 @@ Description:
 The data of this bitcoin full node data file is as of Nov 25, 2023
 
 usage method:
-1. First, unzip the file, with a volume of about 576g
+1. First, unzip the file, with a volume of about 576G
 2. Overwrite the file into the directory where the bitcoin block file is located
 
 
@@ -19,7 +19,7 @@ Ordinals Index Data File Index.redb (Ordinals Index Data Index.redb)
 Index.redb updated to block height 77856 of Bitcoin full node (Nov 25, 2023)
 
 usage method:
-1. First, unzip the file, with a volume of about 45,019,713,536 bytes
+1. First, unzip the file, with a volume of about 46G
 2. Overwrite the file into the directory where the ord inde.redb file is located
 
 
