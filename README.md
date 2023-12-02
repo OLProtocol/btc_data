@@ -9,6 +9,7 @@ usage method:
 
 
 https://pan.baidu.com/s/1AtWgidr3b2AHhkOpc9qrqQ?pwd=0r8g
+https://pan.quark.cn/s/7a4a0852de4c
 --------------------------
 
 
@@ -24,6 +25,7 @@ usage method:
 
 
 https://pan.baidu.com/s/1uruSOCJm4V689kc1_YfQDw?pwd=it51
+https://pan.quark.cn/s/10d54f4809b5
 --------------------------
 
 ```shell
